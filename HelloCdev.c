@@ -72,6 +72,6 @@ module_exit(hello_exit);
 MODULE_LICENSE("GPL");
 
 MODULE_AUTHOR("Ouajih Safae <safae.ouajih44@gmail.com>");
-MODULE_DESCRIPTION("My first HelloWorld driver");	
+MODULE_DESCRIPTION("Hello CdevD");	
 	
 	
